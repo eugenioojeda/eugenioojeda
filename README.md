@@ -1,38 +1,30 @@
 <!-- Banner opcional -->
 <!-- <img src="TU_IMAGEN_O_GIF" width="100%" /> -->
 
-# 👋 ¡Hola! Soy **Eugenio**
+#  ¡Hola! Soy **Eugenio**
 Desarrollador apasionado por crear soluciones web rápidas, útiles y con diseños atractivos.  
 Actualmente trabajando en proyectos con IA, RAG y dashboards modernos.
 
 ---
 
 ## 🚀 Proyectos destacados
-- 🧠 **Knowledge Navigator Enterprise**  
+-  **Knowledge Navigator Enterprise**  
   Plataforma web para empresas que permite subir PDFs y realizar cualquier consulta sobre información que contengan los PDFs mediante un chatbot con RAG.
-- 📹 **EugenioDice**  
+-  **EugenioDice**  
   Simón Dice con historial de puntuaciones y niveles de dificultad ejecutable en la terminal de VScode. Desarrollado con python.
-- 📄 **Games Finder**  
+-  **Games Finder**  
   Plataforma web dedicada a la búsqueda de juegos relevantes de hoy en día con sus descripciones y puntuación. Desarrollado con PHP
 
 ---
 
-## 🛠 Tecnologías que uso
+##  Tecnologías que uso
 <img src="https://skillicons.dev/icons?i=java,python,fastapi,js,html,css,php,streamlit,git,docker,linux" />
 
----
 
-## 📊 Estadísticas de GitHub
-<!-- Sustituye TU_USUARIO por tu username real -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent)
+##  Sobre mí
+Mi objetivo actual es investigar nuevas tecnologías para aprender a combinarlas para desarrollar aplicaciones/soluciones aplicables al mundo laboral actual.
 
----
-
-## 🧩 Sobre mí
-- 🎯 Objetivo actual: Desarrollar proyectos aplicables al mundo laboral actual.
-- 🍃 .
 
 ---
 
