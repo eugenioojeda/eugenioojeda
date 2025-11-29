@@ -31,16 +31,13 @@ Actualmente trabajando en proyectos con IA, RAG y dashboards modernos.
 ---
 
 ## 🧩 Sobre mí
-- 🥊 Entreno kickboxing de lunes a jueves.
-- 🎯 Objetivo actual: seguir mejorando en IA aplicada a documentos.
-- 🍃 Intento mantener un estilo de vida activo y saludable.
+- 🎯 Objetivo actual: Desarrollar proyectos aplicables al mundo laboral actual.
+- 🍃 .
 
 ---
 
 ## 📫 Cómo contactarme
-- ✉️ **Email:** tuemail@example.com  
-- 🔗 **LinkedIn:** https://linkedin.com/in/TU_USUARIO  
-- 🌐 **Web personal:** https://tusitio.com
+- ✉️ **Email:** eugenioojeda@gmail.com  
 
 ---
 
