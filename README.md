@@ -9,11 +9,12 @@ Actualmente trabajando en proyectos con IA, RAG y dashboards modernos.
 
 ## 🚀 Proyectos destacados
 -  **Knowledge Navigator Enterprise**  
-  Plataforma web para empresas que permite subir PDFs y realizar cualquier consulta sobre información que contengan los PDFs mediante un chatbot con RAG.
--  **EugenioDice**  
-  Simón Dice con historial de puntuaciones y niveles de dificultad ejecutable en la terminal de VScode. Desarrollado con python.
+  Plataforma web orientada al uso por empresas que permite subir PDFs y realizar cualquier consulta sobre información que contengan los PDFs mediante un chatbot con RAG. Desarrollado como proyecto de un bootcamp de IA Specialist and Data Analyst.
+  Con python para el backend y con HTML CSS y JavaScript para el frontend .
+-  **Roof-Rush**  
+  Juego que consiste en un runner en 2D de saltar sobre tejados con el objetivo de conseguir el mayor número de monedas posibles aumentando la dificultad a medida que avanza la partida. Desarrollado como proyecto de un bootcamp de E-commerce con HTML CSS y JavasScript.
 -  **Games Finder**  
-  Plataforma web dedicada a la búsqueda de juegos relevantes de hoy en día con sus descripciones y puntuación. Desarrollado con PHP
+  Plataforma web dedicada a la búsqueda de juegos por categorías con sus descripciones y puntuaciones. Desarrollado con PHP.
 
 ---
 
