@@ -9,7 +9,7 @@ Actualmente cursando el primer año del Grado Superior de Desarrollo de Aplicaci
 
 ## 🚀 Proyectos destacados
 -  **Knowledge Navigator Enterprise**  
-  Plataforma web orientada al uso por parte de empresas que permite subir PDFs y realizar cualquier consulta sobre información que contengan los PDFs mediante un chatbot con RAG. Desarrollado como proyecto de un bootcamp de IA Specialist and Data Analyst.Desarrollado como proyecto de un bootcamp de E-commerce en equipo, con python para el backend y con HTML CSS y JavaScript para el frontend .
+  Plataforma web orientada al uso por parte de empresas que permite subir PDFs y realizar cualquier consulta sobre información que contengan los PDFs mediante un chatbot con RAG.  Desarrollado como proyecto de un bootcamp de IA Specialist and Data Analyst. Con python para el backend y con HTML CSS y JavaScript para el frontend .
 -  **Roof-Rush**  
   Juego estilo runner en 2D que consiste en saltar sobre tejados con el objetivo de conseguir el mayor número de monedas posibles aumentando la dificultad a medida que avanza la partida. Desarrollado como proyecto de un bootcamp de E-commerce en equipo con HTML CSS y JavaScript.
 -  **Games Finder**  
